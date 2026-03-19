@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>GASTON – Diaporama</title>
+    <link rel="stylesheet" href="scripts/style.css">
+</head>
+<body>
+
+<h1>GASTON</h1>
+
+<div id="adminControls" style="display:none;" class="vignette">
+    <img id="imgBtnGauche" onclick="prevSlide()" style="width: 150px; height: 150px; margin: 0 auto; text-align: center;"/>
+    <img id="imgChoix" onclick="showSlide(index)" style="width: 200px; height: 200px;"/>
+    <img id="imgBtnDroit" onclick="nextSlide()" style="width: 150px; height: 150px;"/>
+</div>
+
+<div id="slideshow">
+    <img id="slide" src="" alt="Diaporama">
+    <p id="caption" style="text-align:center; margin-top:0.5rem; font-size: 20px;"></p>
+</div>
+
+<img src="scripts/images/admin.png" style="width:40px; height:auto;" onclick="administrateur();"/>
+
+<script src="scripts/liste.js"></script>
+<script src="scripts/script.js"></script>
+<script> isAdmin=true;</script>
+</body>
+</html>
