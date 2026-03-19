@@ -1,0 +1,14 @@
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 30px; color: white; background-color: #1B48D1; }
+        #slide { max-width: 98%; height: auto; }
+        button { margin: 5px; padding: 8px 12px; }
+
+/* Conteneur de la vignette */
+.vignette img{
+    /* Bordure blanche arrondie */
+    border: 3px solid #fff;     /* bordure blanche de 1 px */
+    border-radius: 10px;         /* arrondi de 5 px */
+    
+    /* Optionnel : ombre légère pour détacher du fond */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
