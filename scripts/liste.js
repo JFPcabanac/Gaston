@@ -1,6 +1,6 @@
 // Liste des diapositives
 const slides = [
-  { src: "scripts/images/Dom.jpg", caption: "Mais d'où vient ton surnom ..." },
+  { src: "fotos/1/b.jpg", caption: "Gaston mécano, Solex trafiqué sport, Metz - mai 80" },
   { src: "fotos/1/a.jpg", caption: "Gaston découvrant la pesanteur, Metz - août 77" },
   { src: "fotos/1/IMG-20260318-WA0001.jpg", caption: "Gaston et le sport, tentative de pompe sur le dos, Metz - août 77" },
   { src: "fotos/1/c.jpg", caption: "Gaston tacleur de marmotte, lac Bleu, Pyrénées - août 78" },
@@ -8,7 +8,6 @@ const slides = [
   { src: "fotos/1/d.jpg", caption: "période baba cool" },  
   { src: "fotos/1/IMG-20260316-WA0020.jpg", caption: "Gaston palmé, défilé Metz - sept 79" },
   { src: "fotos/1/IMG-20260319-WA0000.jpg", caption: "Gaston amphibie, défilé Metz - sept 79" },
-  { src: "fotos/1/b.jpg", caption: "Gaston mécano, Solex trafiqué sport, Metz - mai 80" },
   { src: "fotos/1/IMG-20260316-WA0022.jpg", caption: "Gaston mécano, freinage pataugas, Metz - mai 80" },
   { src: "fotos/1/IMG-20260316-WA0021.jpg", caption: "Gaston pierrot, Père Cent, Metz - mars 80" },
   { src: "fotos/1/IMG-20260316-WA0003.jpg", caption: "toujours prêt à se faire de nouveaux amis" },
