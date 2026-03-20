@@ -16,6 +16,7 @@ const slides = [
   { src: "fotos/1/IMG-20260316-WA0015.jpg", caption: "voilà voilà" },
   { src: "fotos/1/IMG-20260316-WA0017.jpg", caption: "le courant est tout de suite passé" },
   { src: "fotos/1/IMG-20260316-WA0018.jpg", caption: "il a même fallu intervenir pour qu'ils arrêtent de patauger" },
+  { src: "scripts/images/GastonJeanne.jpg", caption: "..." },
   
   { src: "scripts/images/un.png", caption: "" },  
   { src: "scripts/images/deux.png", caption: "" },
